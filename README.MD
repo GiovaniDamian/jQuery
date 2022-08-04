@@ -13,3 +13,22 @@ Simple pages for pratic
 </div>
 
 
+<div>
+  <h2>SelecionandoElementos #02 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/SelecionandoElementos_2.png"/>
+</div>
+
+<div>
+  <h2>ModificandoHtml #01 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/ModificandoHtml_1.png"/>
+</div>
+
+<div>
+  <h2>ModificandoHtml #03 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/ModificandoHtml_3.png"/>
+</div>
+
+<div>
+  <h2>ManipulandoAtributos Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/ManipulandoAtributos.png"/>
+</div>
