@@ -6,12 +6,16 @@ Simple pages for pratic
   <h2>IndexPage</h2>
   <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/Index.png"/>
 </div>
- 
+
 <div>
   <h2>Jquery Page</h2>
   <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/Jquery.png"/>
 </div>
 
+<div>
+  <h2> EntendendoJQuery Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/EntendendoJQuery.gif"/>
+</div>
 
 <div>
   <h2>SelecionandoElementos #02 Page</h2>
