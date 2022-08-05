@@ -36,3 +36,13 @@ Simple pages for pratic
   <h2>ManipulandoAtributos Page</h2>
   <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/ManipulandoAtributos.png"/>
 </div>
+
+<div>
+  <h2>Eventos #01 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/Evento_1.gif"/>
+</div>
+
+<div>
+  <h2>Eventos #03 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/evento_3.gif"/>
+</div>
