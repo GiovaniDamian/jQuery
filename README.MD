@@ -46,3 +46,18 @@ Simple pages for pratic
   <h2>Eventos #03 Page</h2>
   <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/evento_3.gif"/>
 </div>
+
+<div>
+  <h2>Animacao #01 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/Animacao_1.gif"/>
+</div>
+
+<div>
+  <h2>Animacao #02 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/Animacao_2.gif"/>
+</div>
+
+<div>
+  <h2>Plugin #02 Page</h2>
+  <img height="360em" src="https://github.com/GiovaniDamian/jQuery/blob/master/img/Plugin_2.png"/>
+</div>
